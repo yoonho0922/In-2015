@@ -31,7 +31,7 @@
 이를 이용해 임의의 순위가 되는 것을 노리는 간단한 게임입니다.
 
 
-# Bat File
+# Batch File
 
 ## multiple_ping_check
 실행 시 체크할 ip의 네트워크 대역을 입력 합니다.
