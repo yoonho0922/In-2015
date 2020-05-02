@@ -25,7 +25,7 @@ void total();
 void first();
 
 
-int main(void) {
+void main() {
 	int b;
 	while(1) {
 		printf("#################### 상품 관리 ####################\n");
@@ -66,7 +66,6 @@ int main(void) {
 			break;
 		}
 	}
-	return 0;
 }
 
 void first() {
